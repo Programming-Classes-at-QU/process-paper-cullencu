@@ -1,0 +1,13 @@
+# Rugby Performance Analysis Project Reflection
+
+Throughout the process of completing my final project, my primary focus was exploring the relationship between kicking accuracy and meters gained among elite international rugby players. I simulated a dataset specifically tailored to my research question, encompassing performance data from 25 top rugby players across various positions. This dataset allowed for a comprehensive examination through statistical methods such as t-tests, ANOVA, and correlation tests, as well as supporting detailed visualizations.
+
+Initially, my research question was broadly oriented around key performance indicators in rugby. However, preliminary exploration of the data prompted me to narrow my focus more specifically: investigating whether kicking accuracy significantly influences meters gained. Refining this question allowed deeper insights into how specific performance metrics differ across player roles.
+
+One significant challenge was accurately simulating realistic rugby performance data. Creating data reflective of real-world variability required multiple iterations and considerable adjustments. I overcame this by conducting thorough research into typical rugby statistics and carefully refining simulation parameters to mirror actual player performance more closely.
+
+Once data simulation and cleaning were complete, executing statistical analyses was relatively straightforward. The t-test highlighted significant differences in meters gained between forwards and backs. ANOVA analysis helped reveal differences in tries scored across positions. Correlation analysis provided clear insights into the relationship between kicking accuracy and meters gained, directly addressing my refined research question.
+
+Visualizations proved to be the most intuitive and rewarding aspect of the analysis. Tools such as scatter plots, bar charts, and box plots clearly illustrated data patterns and enhanced the interpretability of statistical results, making complex relationships easily understandable.
+
+Overall, this analytical journey highlighted the importance of clearly defined research questions, meticulous data preparation, and effective visual communication. It significantly improved my practical experience with statistical analyses and deepened my understanding of sports analytics.
